@@ -112,3 +112,5 @@ Let us go to more practical concepts of scala:
 [Reading File](https://github.com/nimmygeorge90/MyFirstSBTProject/blob/master/src/main/scala/eighteenthoctober/tuple/readingfile.scala)
 
 [Tuple](https://github.com/nimmygeorge90/MyFirstSBTProject/blob/master/src/main/scala/eighteenthoctober/tuple/tuplepractice.scala)
+
+The small banking project done by me based on the studies:[Mini Banking System](https://github.com/nimmygeorge90/Project-on-Bank)
