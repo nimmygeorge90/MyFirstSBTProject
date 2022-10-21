@@ -1,0 +1,5 @@
+package wiley
+
+class DefaultValueFunction {
+
+}
